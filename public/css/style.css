@@ -125,7 +125,6 @@ h2 {
     margin-right: auto;
   }
   
-  /* Devoured and not devoured content */
   @media (min-width: 768px) {
     body .burger-lists {
       display: -webkit-box;
